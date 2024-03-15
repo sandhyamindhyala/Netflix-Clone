@@ -17,5 +17,9 @@ Sign Up Page Of Netflix
 Login Page Of Netflix
 <img width="960" alt="image" src="https://github.com/sandhyamindhyala/Netflix-Clone/assets/144439154/148bf6f4-5e8a-4397-96f3-e65361b87942">
 
+<img width="949" alt="image" src="https://github.com/sandhyamindhyala/Netflix-Clone/assets/144439154/58082c65-7dbd-4af1-a5a7-28e64b7f78d6">
+
+
+<img width="950" alt="image" src="https://github.com/sandhyamindhyala/Netflix-Clone/assets/144439154/c01a6a16-cff4-4d82-9556-4a0470eecb4a">
 
 
